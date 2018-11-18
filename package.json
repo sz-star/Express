@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sz-star/Express.git"
+  },
+  "author": "hqzh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sz-star/Express/issues"
+  },
+  "homepage": "https://github.com/sz-star/Express#readme"
+}
